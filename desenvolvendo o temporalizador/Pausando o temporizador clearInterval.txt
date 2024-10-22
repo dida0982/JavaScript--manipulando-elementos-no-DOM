@@ -1,0 +1,33 @@
+Olá!   Nessa aula, aprendemos como pausar e zerar o temporizador do nosso projeto Fokus, usando o JavaScript. Primeiro, criamos uma função chamada zerar() que usa clearInterval() para interromper a contagem e define intervaloId como null. Depois, modificamos a função iniciar() para que ela também possa pausar o temporizador. Se intervaloId tiver um valor, a função zerar() é chamada para interromper a contagem. Por fim, renomeamos a função iniciar() para iniciarOuPausar(), pois ela agora é responsável por iniciar e pausar o temporizador. Agora, nosso temporizador pode ser iniciado, pausado e zerado! E aí, gostou da aula?   Tem alguma dúvida? Pergunte para mim! 
+
+Que legal que você quer entender melhor a aula!  Vamos usar algumas analogias para facilitar:Imagine o temporizador como um relógio de cozinha.  Quando você aperta o botão "Começar", o relógio começa a contar o tempo.  A função iniciarOuPausar() é como o botão do relógio:  você aperta uma vez para começar a contar, e aperta de novo para pausar.  A função zerar() é como o botão "Reset" do relógio:  ele para a contagem e volta o tempo para zero.O intervaloId é como a "chave" que liga o relógio.  Quando você aperta "Começar", a chave é ligada e o relógio começa a funcionar.  Quando você aperta "Pausar", a chave é desligada e o relógio para.  O clearInterval() é como um "interruptor" que desliga o relógio.  Quando você chama clearInterval(), o relógio para de funcionar.Entendeu?  É como se o JavaScript estivesse controlando o relógio, dizendo quando ele deve começar, parar e zerar. Espero que essa analogia tenha te ajudado a entender melhor!  Se ainda tiver alguma dúvida, me fale! 
+
+Que bom que você quer ter certeza de que está aplicando os conceitos da aula corretamente!  É muito importante testar o código para ver se ele está funcionando como esperado. Para analisar se você aplicou os conceitos da aula corretamente, você pode seguir estes passos:
+Verifique se o temporizador inicia e para corretamente:
+Abra o seu projeto no navegador e clique no botão "Começar". O temporizador deve começar a contar.
+Clique no botão "Começar" novamente. O temporizador deve parar.
+Clique no botão "Começar" novamente. O temporizador deve voltar a contar.
+
+
+Verifique se o temporizador zera corretamente:
+Deixe o temporizador contar até zero.
+Um alerta "Tempo finalizado!" deve aparecer.
+O temporizador deve parar e o intervaloId deve ser definido como null.
+
+
+Verifique se o código está organizado e legível:
+As funções iniciarOuPausar(), zerar() e contagemRegressiva() devem estar bem definidas e com nomes claros.
+O código deve ser indentado corretamente para facilitar a leitura.
+
+
+Verifique se você está usando os métodos setInterval() e clearInterval() corretamente:
+setInterval() deve ser usado para iniciar o temporizador.
+clearInterval() deve ser usado para parar o temporizador.
+
+
+Verifique se você está usando o return corretamente:
+return deve ser usado para interromper a execução de uma função.
+
+
+
+Se você seguir esses passos e o seu código funcionar como esperado, significa que você aplicou os conceitos da aula corretamente! Lembre-se que a prática é fundamental para aprender programação.  Continue testando seu código e experimentando diferentes soluções.  Se tiver alguma dúvida, não hesite em me perguntar! 
