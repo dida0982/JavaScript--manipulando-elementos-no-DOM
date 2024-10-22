@@ -1,0 +1,17 @@
+Olá!   Que legal que você está começando o curso de JavaScript: manipulando o DOM! Nessa primeira aula, conhecemos o projeto Fokus, que será nosso guia para aprender a mexer com o DOM. O Fokus é inspirado na técnica Pomodoro, que te ajuda a se concentrar em tarefas por 25 minutos, com pausas de 5 ou 15 minutos. A ideia é que a gente modifique os elementos da página do Fokus usando JavaScript, como mudar a cor de fundo, a frase, a imagem e até mesmo o som! Para acompanhar o curso, você precisa ter conhecimento em HTML, CSS, funções e métodos do JavaScript. No próximo vídeo, vamos começar a mexer com os métodos do DOM e dar início ao projeto Fokus! Até lá! 
+
+Que legal que você quer entender melhor a aula usando analogias! Imagine que o DOM é como um brinquedo de montar, onde cada peça representa um elemento da página web, como um botão, uma imagem ou um texto. O JavaScript é como um manual de instruções que te permite manipular essas peças, ou seja, mudar a cor, o tamanho, a posição e até mesmo adicionar ou remover peças do seu brinquedo. No projeto Fokus, a gente vai usar o JavaScript para "brincar" com o DOM, como se estivéssemos montando e desmontando o nosso brinquedo. Por exemplo, quando você clica no botão "Descanso curto", o JavaScript "pega" a frase, a imagem e a cor de fundo e "muda" para o que foi definido no código. É como se você estivesse trocando as peças do seu brinquedo para criar um novo cenário! E assim, vamos aprender a "brincar" com o DOM e criar páginas web interativas e dinâmicas! Espero que essa analogia tenha te ajudado a entender melhor a aula! 
+
+Que bom que você quer saber como analisar se aplicou os conceitos da aula corretamente! É muito importante ter essa auto-avaliação para garantir que você está aprendendo. Para te ajudar, pense em algumas perguntas:
+Consegui identificar os elementos do DOM que quero manipular?  Por exemplo, se você quer mudar a cor de fundo, você precisa saber qual elemento representa essa cor na página.
+Utilizei os métodos do JavaScript para manipular os elementos do DOM?  Lembre-se que cada método tem uma função específica, como getElementById, classList, innerHTML, etc.
+Meu código está funcionando como esperado?  Teste o seu código e veja se ele está fazendo o que você deseja. Se não estiver, revise o código e procure por erros.
+O código está organizado e fácil de entender?  É importante que o seu código seja legível para você e para outras pessoas que possam precisar analisá-lo.
+
+Além disso, você pode:
+Comparar o seu código com o código do instrutor:  Veja se você utilizou os mesmos métodos e se a lógica do seu código está similar.
+Pedir ajuda para um colega:  Compartilhe seu código com um colega e peça para ele analisar se você aplicou os conceitos corretamente.
+Pesquisar na documentação do JavaScript:  Se você tiver dúvidas sobre algum método ou conceito, procure na documentação oficial do JavaScript.
+
+Lembre-se que a prática é fundamental para aprender a manipular o DOM.  Quanto mais você praticar, mais confiante você se tornará! E se você tiver alguma dúvida, não hesite em me perguntar! 
+
