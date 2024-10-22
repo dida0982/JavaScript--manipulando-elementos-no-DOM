@@ -1,0 +1,20 @@
+Olá! Nessa aula, aprendemos a inserir e manipular um arquivo de áudio na nossa página. Primeiro, acessamos o input checkbox que controla a música, usando o ID alternar-musica. Depois, criamos um objeto de áudio usando new Audio e definimos o caminho do arquivo de áudio.Em seguida, adicionamos um evento change ao input para controlar a reprodução da música. Quando o input é clicado, verificamos se a música está pausada. Se estiver, damos play. Caso contrário, damos pause.Para que a música toque em loop, definimos a propriedade loop como true.No próximo vídeo, vamos começar a trabalhar com o temporizador! ️Espero que tenha entendido tudo!  Se tiver alguma dúvida, pode me perguntar! 
+
+Que legal que você quer entender melhor a aula usando analogias! Imagine que você está construindo um rádio para sua casa. Você precisa de um botão para ligar e desligar a música, certo? Esse botão seria o nosso input checkbox, que controla a música.Agora, imagine que você tem um CD com sua música favorita. Esse CD seria o nosso arquivo de áudio. Para ouvir a música, você precisa colocar o CD no aparelho de som. No nosso caso, usamos new Audio para "colocar" o arquivo de áudio no nosso "aparelho de som" (a página web).Quando você aperta o botão do rádio, a música começa a tocar. No nosso código, usamos o evento change para que a música comece a tocar quando o input checkbox é clicado.E se você quiser que a música toque sem parar, você precisa colocar o CD em modo "repeat", certo? No nosso código, usamos a propriedade loop para que a música toque em loop.Entendeu? É como se estivéssemos construindo um rádio dentro da nossa página web! Espero que essa analogia tenha te ajudado a entender melhor a aula! 
+
+Que bom que você quer testar seus conhecimentos! Para saber se você aplicou os conceitos da aula corretamente, você pode fazer alguns testes:
+Verifique se o input checkbox está funcionando corretamente:
+Clique no input checkbox e veja se a música começa a tocar.
+Clique novamente no input checkbox e veja se a música pausa.
+
+
+Verifique se a música está tocando em loop:
+Deixe a música tocando por um tempo e veja se ela continua tocando sem parar.
+
+
+Verifique se a música está sendo tocada no momento certo:
+Se você tiver outros elementos na página que interagem com a música, como um botão para iniciar o temporizador, verifique se a música está sendo tocada no momento certo.
+
+
+
+Se você conseguir fazer todos esses testes com sucesso, significa que você aplicou os conceitos da aula corretamente! Lembre-se que a prática é fundamental para aprender! Se você tiver alguma dúvida, pode me perguntar! 
