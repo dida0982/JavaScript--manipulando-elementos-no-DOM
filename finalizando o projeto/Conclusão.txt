@@ -1,0 +1,18 @@
+Que legal que você chegou até aqui!   Nessa aula final, relembramos como o JavaScript nos ajuda a manipular elementos na página, usando o projeto Fokus como exemplo. Vimos como o innerHTML muda textos, o setAttribute troca imagens, o classList modifica estilos, o querySelector seleciona elementos e o EventList escuta interações na página. Agora você pode compartilhar seu projeto no LinkedIn e mostrar para todo mundo o que aprendeu!   E se precisar de ajuda, pode entrar no nosso Discord para conversar com outros alunos e tirar dúvidas. Continue praticando e criando seus próprios projetos incríveis!  
+
+Imagine que você está construindo um palco para um show. O JavaScript é como o seu controle remoto, que te permite manipular os elementos do palco, como as luzes, as cortinas e os instrumentos. 
+O innerHTML é como o botão que controla a tela de projeção, permitindo que você altere o texto que está sendo exibido.
+O setAttribute é como o botão que controla as luzes, permitindo que você altere a cor e a intensidade da iluminação.
+O classList é como o botão que controla as cortinas, permitindo que você abra, feche ou altere a cor das cortinas.
+O querySelector é como o botão que seleciona qual instrumento você quer usar, permitindo que você escolha qual elemento do palco você quer manipular.
+O EventList é como o botão que controla os efeitos especiais, permitindo que você defina o que acontece quando o público interage com o palco, como acender as luzes quando alguém aplaude.
+
+Com o JavaScript, você pode criar um palco interativo e dinâmico, que muda de acordo com as ações do público. Assim como no projeto Fokus, você pode criar uma experiência única para seus usuários, com elementos que se alteram de acordo com suas interações. E aí, está pronto para criar seu próprio palco interativo? 
+
+Que bom que você quer ter certeza de que aprendeu tudo!  Para saber se você aplicou os conceitos da aula corretamente, pense em alguns pontos:
+Seu projeto funciona como esperado?  Se você clicar nos botões, as informações mudam como você programou?  As imagens trocam, os textos se alteram e os estilos se modificam?
+Você usou as ferramentas certas para cada tarefa?  O innerHTML foi usado para mudar textos?  O setAttribute para trocar imagens?  O classList para modificar estilos?  O querySelector para selecionar os elementos certos?  E o EventList para escutar as interações do usuário?
+Seu código é organizado e fácil de entender?  Você usou nomes de variáveis e funções que facilitam a compreensão do código?  O código está dividido em partes lógicas?
+Você testou seu projeto em diferentes navegadores?  O projeto funciona da mesma forma em todos os navegadores?
+
+Se você respondeu sim a todas essas perguntas, parabéns!  Você está no caminho certo para se tornar um mestre em manipular elementos no DOM.  Se você tiver alguma dúvida, não hesite em perguntar!  Estou aqui para te ajudar a entender melhor os conceitos da aula. 
